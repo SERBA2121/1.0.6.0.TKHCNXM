@@ -8,6 +8,9 @@
 - Format data,
 - Reboot,
 
+### Next OS features:
+- Just look at the screenshots
+
 ### Features by yeyau: 
 
 - Depth wallpaper without restrictions,
