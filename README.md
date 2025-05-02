@@ -7,6 +7,7 @@
 - You can update the realking kernel or install NOKernel if you want,
 - Format data,
 - Reboot,
+- Restart your device after completing the initial setup,
 
 ### Next OS features:
 - Just look at the screenshots
