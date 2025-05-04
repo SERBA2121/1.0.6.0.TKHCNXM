@@ -6,7 +6,9 @@
 - Wipe dalvik cache metadata,
 - You can update the realking kernel or install NOKernel if you want,
 - Format data,
-- Reboot,
+- Reboot in fastboot,
+- Execute fastboot erase frp,
+- Execute fastboot -w,
 - Restart your device after completing the initial setup,
 
 ### Next OS features:
