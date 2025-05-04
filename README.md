@@ -9,6 +9,7 @@
 - Reboot in fastboot,
 - Execute fastboot erase frp,
 - Execute fastboot -w,
+- Reboot,
 - Restart your device after completing the initial setup,
 
 ### Next OS features:
