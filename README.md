@@ -22,10 +22,10 @@
 - Added kigurumi wallpapers,
 - EU launcher,
 - CN patched Thememanager,
+- NEXT OS extension pack (https://t.me/yeyauu/78)
 
 ### BUGS:
 - Failed play integrity,
-- Aod (its ips lol),
+- Aod (Fixed in NEXT OS extension pack)
 - Maybe some nextOS features....
-
 ### Overall, the rom is fully functional.
